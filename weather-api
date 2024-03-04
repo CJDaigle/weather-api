@@ -1,0 +1,1 @@
+*/1 * * * * root /usr/local/bin/python /app/weather-api-call.py >> /var/log/weather.log 2>&1
